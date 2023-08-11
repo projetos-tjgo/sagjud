@@ -148,7 +148,7 @@ export default function MagistradoProd(){
                 </Row>
                 <ButtonToolbar className="button-group-sag-right">
                     {mostraResultados &&(
-                    <Button type="button" variant="primary" className="me-2" onClick={resultados}>
+                    <Button type="button" variant="primary" className="me-2">
                         <i className="fa fa-print"></i> Imprimir Relatorio
                     </Button>
                     )}

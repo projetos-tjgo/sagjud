@@ -1,5 +1,6 @@
 {
-  "name": "color-admin",
+  "homepage": "https://projetos-tjgo.github.io/sagjud/"
+  "name": "sagjud",
   "version": "0.0.0",
   "private": true,
   "dependencies": {

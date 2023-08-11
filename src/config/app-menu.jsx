@@ -1,10 +1,10 @@
 const Menu = [
-  { path: '/home', icon: 'fa fa-home', title: 'Home',
+  { path: '/home', icon: 'fa fa-home', title: 'Gestão',
     
   },
-  { path: '/gestao', icon: 'fa fa-home', title: 'Gestão',
+  /*{ path: '/gestao', icon: 'fa fa-home', title: 'Gestão',
     
-  },
+  },*/
   { path: '/relatorios-personalizados', icon: 'fa fa-filter', title: 'Relatórios Personalizados',
     
   },
